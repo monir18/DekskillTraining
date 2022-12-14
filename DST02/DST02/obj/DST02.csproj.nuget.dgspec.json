@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DST02\\DST02\\DST02.csproj": {}
+    "F:\\DevSkillTraining C#\\DekskillTraining\\DST02\\DST02\\DST02.csproj": {}
   },
   "projects": {
-    "D:\\DST02\\DST02\\DST02.csproj": {
+    "F:\\DevSkillTraining C#\\DekskillTraining\\DST02\\DST02\\DST02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DST02\\DST02\\DST02.csproj",
+        "projectUniqueName": "F:\\DevSkillTraining C#\\DekskillTraining\\DST02\\DST02\\DST02.csproj",
         "projectName": "DST02",
-        "projectPath": "D:\\DST02\\DST02\\DST02.csproj",
+        "projectPath": "F:\\DevSkillTraining C#\\DekskillTraining\\DST02\\DST02\\DST02.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\DST02\\DST02\\obj\\",
+        "outputPath": "F:\\DevSkillTraining C#\\DekskillTraining\\DST02\\DST02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

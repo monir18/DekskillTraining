@@ -13,3 +13,18 @@ D:\DST02\DST02\obj\Debug\net6.0\refint\DST02.dll
 D:\DST02\DST02\obj\Debug\net6.0\DST02.pdb
 D:\DST02\DST02\obj\Debug\net6.0\DST02.genruntimeconfig.cache
 D:\DST02\DST02\obj\Debug\net6.0\ref\DST02.dll
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\bin\Debug\net6.0\DST02.exe
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\bin\Debug\net6.0\DST02.deps.json
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\bin\Debug\net6.0\DST02.runtimeconfig.json
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\bin\Debug\net6.0\DST02.dll
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\bin\Debug\net6.0\DST02.pdb
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.csproj.AssemblyReference.cache
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.AssemblyInfoInputs.cache
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.AssemblyInfo.cs
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.csproj.CoreCompileInputs.cache
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.dll
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\refint\DST02.dll
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.pdb
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\DST02.genruntimeconfig.cache
+F:\DevSkillTraining C#\DekskillTraining\DST02\DST02\obj\Debug\net6.0\ref\DST02.dll

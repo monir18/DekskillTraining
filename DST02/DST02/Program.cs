@@ -37,12 +37,35 @@
             //Guid obj = Guid.NewGuid();
             //Console.WriteLine("New Guid is " + obj.ToString());
             //Console.ReadLine();
-            
+
             //double age = Convert.ToDouble(Console.ReadLine());
             //Console.WriteLine(age);
 
-            ConsoleKeyInfo d = Console.ReadKey();
-            Console.WriteLine(d.Key);
+            //ConsoleKeyInfo d = Console.ReadKey();
+            //Console.WriteLine(d.Key);
+
+            //string name = "";
+            ////Console.WriteLine("This is " + name.Remove(0, 4));
+            //if (string.IsNullOrEmpty(name)) // Null and Empty Check
+            //{
+            //    Console.WriteLine("No Name");
+            //}
+            //else
+            //{
+            //    Console.WriteLine(name);
+            //}
+
+            string name = "   ";
+            if(string.IsNullOrWhiteSpace(name)) //Null, Empty ANd WhiteSpace Check
+            {
+                Console.WriteLine("No Name Found");
+            }
+            else
+            {
+                Console.WriteLine(name);
+            }
+
+
         }
     }
 }
