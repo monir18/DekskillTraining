@@ -65,6 +65,8 @@
                 Console.WriteLine(name);
             }
 
+            int ?a = null;
+            Console.WriteLine(a);
 
         }
     }
